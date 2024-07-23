@@ -5,7 +5,7 @@ This p5.js sketch creates an interactive visual display where dandelion seeds an
 ## How to Use
 
 Open a Web Browser:
-Open your preferred web browser and paste this link: https://lc4490.github.io/home/dandeflies.html
+Open your preferred web browser and paste this link: https://lc4490.github.io/home/dandeflies/dandeflies.html
 
 ## Interact:
 
